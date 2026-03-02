@@ -1,4 +1,5 @@
 # nitishjec-demo
 this is my first repository
 <br>
-Author - nitish singh
+Author - nitish singh (jec college)
+
